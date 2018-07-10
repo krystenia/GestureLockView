@@ -16,7 +16,7 @@ import java.util.List;
 
 public class GestureLockView extends View {
 
-    private int circleNum = 5;
+    private int circleNum = 3;
     private Paint paint;
     private int smallRadius = 20;
     private int largeRadius = 80;
