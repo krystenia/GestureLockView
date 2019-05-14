@@ -1,0 +1,13 @@
+<declare-styleable name="CustomView">
+        <attr name="num" format="integer" />
+        <attr name="child_h_padding" format="dimension"/>
+        <attr name="child_v_padding" format="dimension"/>
+        <attr name="child_width" format="dimension"/>
+        <attr name="child_height" format="dimension"/>
+        <attr name="padding" format="dimension"/>
+        <attr name="textColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="boxBackground" format="reference"/>
+        <attr name="inputType" format="string"/>
+        <attr name="pwdStr" format="string"/>
+    </declare-styleable>
